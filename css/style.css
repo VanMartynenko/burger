@@ -1,0 +1,188 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body{
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
+}
+.head-burgers{
+	background: linear-gradient(180deg, #0C4C7B -100%, #1E2F40 100%);
+}
+.head-information{
+	max-width: 1180px;
+	display: flex;
+	margin: 0 auto;
+	justify-content: space-between;
+	justify-content: center;
+}
+.text{
+	padding-top: 170px;
+	padding-bottom: 170px;
+	flex: 0 0 580px;
+}
+.text p{
+	margin-bottom: 62px;
+}
+.visual {
+    flex-grow: 1;
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+}
+.orange-line {
+    width: 432px;
+    height: 100%;
+    background: linear-gradient(2.42deg, #F37335 -19.6%, #FBB731 100.79%, #FDC830 100.79%);
+}
+.burger-picture{
+	width: 829px;
+	position: absolute;
+	right: -168px;
+}
+.head-burgers a{
+	font-family: Nunito Sans;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 18px;
+	color: #1E2F40;
+	text-decoration: none;
+	padding: 20px 45px;
+	border-radius: 5px;
+	background: #FBB731;
+}
+.offens a{
+	font-family: Nunito Sans;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 18px;
+	color: #1E2F40;
+	text-decoration: none;
+	padding: 20px 45px;
+	border-radius: 5px;
+	background: #FBB731;
+}
+p{
+	font-family: Lato;
+	color: #DEDEDE;
+	font-size: 19px;
+	line-height: 1.4;
+}
+h1{
+	font-family: Nunito Sans;
+	color: #FAF9F9;
+	font-weight: 800;
+	font-size: 120px;
+	line-height: 140px;
+	margin-bottom: 39px;
+}
+h1 span{
+	font-family: Nunito Sans;
+	color: #FBB731;
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 38px;
+	display: block;
+	margin-bottom: 10px;
+}
+.offens{
+	max-width: 1180px;
+	display: flex;
+	justify-content: space-between;
+	padding-left: 73px;
+	padding-left: 202px;
+}
+.sale{
+}
+.sale-burger {
+	font-family: Nunito Sans;
+	font-weight: 900;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	padding: 5px 18.23px;
+	background: #F37335;
+	border-radius: 14px;
+	max-width: 101.89px;
+	text-align: center;
+}
+.sale-20{
+	font-family: Nunito Sans;
+	font-weight: 900;
+	font-size: 60px;
+	line-height: 76px;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+.sale-information{
+	font-family: Lato;
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 24px;
+	color: #FAF9F9;
+}
+.free{
+
+}
+.free-name{
+
+}
+.what-free{
+
+}
+.footer-main{
+	background: #1E2F40;
+	justify-content: center;
+}
+.footer-text{
+	padding-top: 111px;
+	padding-bottom: 106px;
+	padding-left: 170px;
+	display: flex;
+	max-width: 1180px;
+	justify-content: center;
+	justify-content: space-between;
+}
+.telephone-numbers span{
+	display: grid;
+	font-family: Nunito Sans;
+	font-weight: 800;
+	font-size: 20px;
+	line-height: 38px;
+	color: #FBB731;
+}
+.main-links{
+	display: grid;
+}
+.main-links a{
+	text-decoration: none;
+	font-style: Lato;
+	font-size: 15px;
+	line-height: 24px;
+	font-weight: 400;
+	color: #DEDEDE;
+}
+h3{
+	font-weight: 800;
+	font-size: 20px;
+	line-height: 38px;
+	color: #FFFFFF;
+	margin-bottom: 12px;
+}
+.footer-text p{
+	font-family: Lato;
+	font-size: 15px;
+	line-height: 24px;
+	color: #DEDEDE;
+	font-weight: 400;
+}
+.main-information span{
+	font-family: Lato;
+    font-weight: 700;
+    display: block;
+    font-size: 15px;
+	line-height: 24px;
+}
+.time{
+	margin-bottom: 12px;
+}
