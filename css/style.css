@@ -94,6 +94,7 @@ h1 span{
 	padding-left: 202px;
 	padding-top: 185px;
 	padding-bottom: 185px;
+	margin: 0 auto;
 }
 .sale{
 	background: #1E2F40 url(../img/bacon-cheese-burger.png) no-repeat;
@@ -162,6 +163,7 @@ h1 span{
 .footer-main{
 	background: #1E2F40;
 	justify-content: center;
+	margin: 0 auto;
 }
 .footer-text{
 	padding-top: 111px;
